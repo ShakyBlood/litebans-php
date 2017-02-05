@@ -3,7 +3,7 @@ class Lang {
     public function __construct() {
         $this->index_welcome1 = 'Bienvenido a la Lista de Sanciones de ';
         $this->index_welcome2 = '.';
-        $this->index_allsins = 'Aquí se encuntran todas las Sanciones del Servidor.';
+        $this->index_allsins = 'Aquí se encuentran todas las Sanciones del Servidor.';
         $this->header_index = 'Inicio';
         $this->header_bans = 'Baneos';
         $this->header_mutes = 'Muteos';
